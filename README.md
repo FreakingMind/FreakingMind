@@ -6,6 +6,10 @@ Lead Data Engineer. I build lakehouse data platforms and contribute to the open-
 **Engines:** Rust · Apache DataFusion · Apache Arrow  
 **AI-native workflow:** agents · MCP · skills · Claude Code
 
+#### Projects
+
+- **[ODBC for Trino](https://github.com/FreakingMind/odbc-for-trino)**: ODBC driver for Trino with native macOS support — Excel on macOS and Windows, Power BI, OAuth 2.0 and external authentication, tokens in Keychain / DPAPI
+
 #### Open source
 
 - **[Apache DataFusion Comet](https://github.com/apache/datafusion-comet)**: Spark-compatible casts and ANSI errors, MERGE INTO execution · [merged PRs →](https://github.com/apache/datafusion-comet/pulls?q=is%3Apr+author%3AFreakingMind+is%3Amerged)
