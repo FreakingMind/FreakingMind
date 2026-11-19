@@ -18,4 +18,4 @@ Lead Data Engineer. I build lakehouse data platforms and contribute to the open-
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/tigran-apresian/) · [tigranapresyan@gmail.com](mailto:tigranapresyan@gmail.com) · Telegram [@redumba_work](https://t.me/redumba_work)
+[LinkedIn](https://www.linkedin.com/in/tigran-apresian/) · [tigranapresyan@gmail.com](mailto:tigranapresyan@gmail.com) · Telegram [@traper_w](https://t.me/traper_w)
